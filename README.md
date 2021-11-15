@@ -12,6 +12,6 @@ Along with that, there would be a uniform, transparent and well defined rate cha
 
 Our Website has the capability to make lives simpler and contribute positively to our society, and with the same spirit, our site aspires to contribute to the goal of making our planet greener and promote recycling and reusing.
 
-<a href="https://saiharshavarma.github.io/Raddiwala/login/homepage.html">Click Here</a> to go to the website
+<a href="https://shubhmittal44.github.io/Pitchers/login/homepage.html">Click Here</a> to go to the website
 
 
